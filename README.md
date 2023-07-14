@@ -1,6 +1,7 @@
 # Javascript Project
 
-Hello Everyone In this repository' I would be writing the code of my javascript begginer moudle coure by MetaCrafters
+Hello Everyone In this repository I would be writing the code of my javascript begginer moudle coure by MetaCrafters
+
 Project: Create a NFT collection 
 
 Description:
